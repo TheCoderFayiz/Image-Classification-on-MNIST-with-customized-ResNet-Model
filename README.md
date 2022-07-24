@@ -6,3 +6,4 @@ Crossentropyloss was used to calculate loss
 SGD or stochastic gradient descent optimizer was used with learning rate of 0.001 and modulation of 0.9. Modulation helps in faster convergence.
 The loss function significntly reduced from 2 to 0.001.
 To rule out overfitting, I tested model by testdataset of 10000 images and resulting accuracy was 98%. This showed trained model is well able to generalize.
+Trained weights can be downloaded and used from: https://drive.google.com/file/d/1RUTn6fVhsyFPRYUqoUbMVfD79rqOB5N_/view?usp=sharing
